@@ -25,7 +25,7 @@ Entrada:
     "Curso de Python"
 ]
 ```
-Saida:
+Saída:
 ```python
 [
     "curso-de-engenharia-de-software",
