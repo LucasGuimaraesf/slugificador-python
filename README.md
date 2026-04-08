@@ -24,3 +24,13 @@ Entrada:
     "Curso de Python",
     "Curso de Python"
 ]
+```
+Saida:
+```python
+[
+    "curso-de-engenharia-de-software",
+    "python-e-incrivel",
+    "curso-de-python",
+    "curso-de-python-1"
+]
+```
