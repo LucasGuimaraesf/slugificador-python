@@ -1,8 +1,6 @@
-# slugificador-python
-Utilitário em Python para converter textos em slugs amigáveis para URL, tratando acentos, caracteres especiais e duplicidade.
-
 # Slugificador em Python
 
+Utilitário em Python para converter textos em slugs amigáveis para URL, tratando acentos, caracteres especiais e duplicidade.
 Este projeto é um utilitário simples em Python para transformar textos em **slugs amigáveis para URL**.
 
 ## Funcionalidades
